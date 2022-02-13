@@ -1,0 +1,6 @@
+
+*.min
+*.eep
+*.src
+obj/*
+*.obj
